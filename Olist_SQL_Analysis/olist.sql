@@ -5,7 +5,7 @@ SELECT
     order_delivered_customer_date - order_purchcase_timestamp
 FROM dbo.orders
 
---Total Sales and Avg Sales for each Order
+--Total Sales and Avg Sales for each Order Test
 
 SELECT 
     SUM(sq.order_total) total_revenue,
