@@ -4,8 +4,8 @@ This notebook aggregates NBA Data through the [NBA API Python Package](https://p
 
 ### Files
 
-NBA Database.ipynb - Data Collection 
+**NBA Database.ipynb** - Data Collection 
 
-NBA.db - SQLite Database File 
+**NBA.db** - SQLite Database File 
 
-backupdatabase_dump.sql - SQL Dump file
+**backupdatabase_dump.sql** - SQL Dump file
