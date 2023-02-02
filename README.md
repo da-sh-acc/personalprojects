@@ -5,7 +5,7 @@ This is a repository that contains analytical projects i've completed. I've purs
 
 ## COVID-19: A Pandemic In Review
 | Data Visualization |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | 
 ## NBA Database Data Collection
 
 ## Olist SQL Analysis Dashboard
