@@ -1,5 +1,3 @@
-### COVID-19 Analytical Project
-
 ## COVID-19 Analytical Project
 | Data Analysis | Data Visualization |
 | :---: | :---: |
