@@ -7,7 +7,7 @@ This is a repository that contains analytical projects i've completed. I've purs
 | Data Analysis | Data Visualization |
 | :---: | :---: |
 
-Over the course of the pandemic, I became interested in learning about how COVID-19 was affecting the US and especially how it affected different parts of the country. This project explores Covid data 2021 and 2020 to highlight the overall trends and seasonality of case numbers using a multitude of visualizations. The media cycle constantly focused on large states like New York and California due to the number of overall cases, but I wanted to examine each state using scaled statistics to better understand how the pandemic affected each indvidual state. 
+Over the course of the pandemic, I became interested in learning about how COVID-19 was affecting the US and especially how it affected different parts of the country. This project explores Covid data from 2021 and 2020 to highlight the overall trends and seasonality of case numbers using a multitude of visualizations. The media cycle constantly focused on large states like New York and California due to the number of overall cases, but I wanted to examine each state using scaled statistics to better understand how the pandemic affected each indvidual state. 
 
 ## NBA Attendance Prediction
 | Data Scraping | API Requests | Feature Creation & Selection | Regression Model |
@@ -18,6 +18,11 @@ Before the beginning of each season, teams in the National Basketball Associatio
 ## NBA Database Data Collection
 | Data Collection | Database Management |
 | :---: | :---: | 
+
+This notebook aggregates NBA Data through the [NBA API Python Package](https://pypi.org/project/nba-api/), cleans and converts the data into pandas dataframes and then stores the tables in a sqlite database. The tables will also be dumped into a SQL File so that it can be imported into any database system. The purpose of this project was to practice skills in API data collection and database management, and was influenced by previous practice work done with the [European Soccer Dataset](https://www.kaggle.com/datasets/hugomathien/soccer). This data is the start of an incomplete project, the focus of which is building a team-based dashboard that tracks game statistics, schedule and player information during the NBA Season. 
+
 ## Olist SQL Analysis Dashboard
 | Data Analysis | Dashboard Visualization | Tableau
 | :---: | :---: | :---: |
+
+The dashboard contains various order and revenue statistics of data from Olist, a Brazilian E-Commerce company. The [Olist dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) was collected from Kaggle and has the information of 100,000 orders from 2016 to 2018. The SQL file contains various data exploration queries and analysis to discover the main drivers of revenue for the company. The final dashboard was created in Tableau and posted on [Tableau Public](https://public.tableau.com/app/profile/david.shin8483/viz/olist_dashboard/Dashboard1)
