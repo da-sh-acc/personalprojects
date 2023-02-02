@@ -7,6 +7,8 @@ This is a repository that contains analytical projects i've completed. I've purs
 | Data Analysis | Data Visualization |
 | :---: | :---: | 
 ## NBA Database Data Collection
-
+| Data Collection | Database Management |
+| :---: | :---: | 
 ## Olist SQL Analysis Dashboard
-
+| Data Analysis | Dashboard Visualization | Tableau
+| :---: | :---: | :---: |
