@@ -20,8 +20,8 @@ Before the beginning of each season, teams in the National Basketball Associatio
 
 This notebook aggregates NBA Data through the [NBA API Python Package](https://pypi.org/project/nba-api/), cleans and converts the data into pandas dataframes and then stores the tables in a sqlite database. The tables will also be dumped into a SQL File so that it can be imported into any database system. The purpose of this project was to practice skills in API data collection and database management, and was influenced by previous practice work done with the [European Soccer Dataset](https://www.kaggle.com/datasets/hugomathien/soccer). This data is the start of an incomplete project, the focus of which is building a team-based dashboard that tracks game statistics, schedule and player information during the NBA Season. 
 
-## Olist SQL Analysis Dashboard
-| Data Analysis | Dashboard Visualization | Tableau
-| :---: | :---: | :---: |
+## Olist Dashboard
+| Data Analysis | SQL | Dashboard Visualization | Tableau
+| :---: | :---: | :---: | :---: |
 
 The dashboard contains various order and revenue statistics of data from Olist, a Brazilian E-Commerce company. The [Olist dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) was collected from Kaggle and has the information of 100,000 orders from 2016 to 2018. The SQL file contains various data exploration queries and analysis to discover the main drivers of revenue for the company. The final dashboard was created in Tableau and posted on [Tableau Public](https://public.tableau.com/app/profile/david.shin8483/viz/olist_dashboard/Dashboard1)
